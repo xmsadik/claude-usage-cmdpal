@@ -74,4 +74,4 @@ Running **Reload** in Command Palette works around both.
 
 ## License
 
-[MIT](LICENSE). Parts derived from the PowerToys extension template are © Microsoft, MIT.
+[MIT](LICENSE). Parts derived from the PowerToys extension template are © Microsoft, MIT; see [NOTICE](NOTICE).

@@ -19,8 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-Portions of this project (Program.cs, ClaudeUsageExtension.cs,
-Helpers/SettingsManager.cs, ClaudeUsageCommandsProvider.cs, and the project
-scaffolding) are derived from the Microsoft PowerToys Command Palette extension
-template, Copyright (c) Microsoft Corporation, licensed under the MIT License.
