@@ -52,7 +52,7 @@ The package is signed with a self-signed certificate (`CN=ClaudeUsageDev`). On e
 
 ```powershell
 Import-Certificate .\ClaudeUsageDev.cer -CertStoreLocation Cert:\LocalMachine\TrustedPeople
-Add-AppxPackage .\ClaudeUsage_0.0.1.0_x64.msix
+Add-AppxPackage .\ClaudeUsage_0.1.0.0_x64.msix
 ```
 
 ## Layout
